@@ -46,7 +46,48 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-    Vulnerability Assessment • Threat Analysis • Cryptography • Network Security • Network Architecture • Security Audits • Strategic Communications • Web Development • Project Management • Leadership Development • Scout Leadership • Marketing • Social Media • Information Security
+    <a href="https://www.ibm.com/security/vulnerability-management" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vultr/vultr-original.svg" alt="vulnerability assessment" width="40" height="40"/>
+    </a>
+    <a href="https://www.owasp.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" alt="threat analysis" width="40" height="40"/>
+    </a>
+    <a href="https://www.openssl.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openssl/openssl-original.svg" alt="cryptography" width="40" height="40"/>
+    </a>
+    <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="network security" width="40" height="40"/>
+    </a>
+    <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-architecture.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkarchitecture/networkarchitecture-original.svg" alt="network architecture" width="40" height="40"/>
+    </a>
+    <a href="https://www.iso.org/iso-27001-information-security.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/iso/iso-original.svg" alt="security audits" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Strategic_communication" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/strategiccommunications/strategiccommunications-original.svg" alt="strategic communications" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Development" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webdevelopment/webdevelopment-original.svg" alt="web development" width="40" height="40"/>
+    </a>
+    <a href="https://www.pmi.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/projectmanagement/projectmanagement-original.svg" alt="project management" width="40" height="40"/>
+    </a>
+    <a href="https://www.linkedin.com/learning/leadership-foundations" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leadershipdevelopment/leadershipdevelopment-original.svg" alt="leadership development" width="40" height="40"/>
+    </a>
+    <a href="https://www.scouting.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scoutleadership/scoutleadership-original.svg" alt="scout leadership" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Marketing" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/marketing/marketing-original.svg" alt="marketing" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Social_media" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socialmedia/socialmedia-original.svg" alt="social media" width="40" height="40"/>
+    </a>
+    <a href="https://www.isaca.org/resources/information-security" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/informationsecurity/informationsecurity-original.svg" alt="information security" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMARTH627&show_icons=true&locale=en&layout=compact" alt="SAMARTH627" /></p>
@@ -59,4 +100,10 @@
         <img src="https://holopin.me/samarth627" alt="Holopin Badges" width="300" height="300"/>
     </a>
 </p>
+<p align="left">
+    <a href="https://www.holopin.io/@samarth627#" target="_blank" rel="noreferrer">
+        <img src="https://holopin.me/samarth627" alt="Holopin Profile" width="300" height="300"/>
+    </a>
+</p>
+
 
