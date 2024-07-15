@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [Multiple disease prediction system](https://publicmlwebapp-jiv44uyqzrjuznpfs6gnkx.streamlit.app/)
 
-- 📫 How to reach me **samjaat@627**
+- 📫 How to reach me **samjaat@627gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
