@@ -45,7 +45,7 @@
 <p align="left">
     Vulnerability Assessment • Threat Analysis • Cryptography • Network Security • Network Architecture • Security Audits • Strategic Communications • Web Development • Project Management • Leadership Development • Scout Leadership • Marketing • Social Media • Information Security
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhorjoshi&show_icons=true&locale=en&layout=compact" alt="vibhorjoshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMARTH627&show_icons=true&locale=en&layout=compact" alt="SAMARTH627" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhorjoshi&show_icons=true&locale=en" alt="vibhorjoshi" /></p>
 
