@@ -94,15 +94,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMARTH627&show_icons=true&locale=en" alt="SAMARTH627" /></p>
 
-<h3 align="center">Achievements:</h3>
-<p align="center">
-    <a href="https://www.holopin.io/@samarth627#badges" target="_blank" rel="noreferrer">
-        <img src="https://holopin.me/samarth627" alt="Holopin Badges" width="300" height="300"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://www.holopin.io/@samarth627#" target="_blank" rel="noreferrer">
-        <img src="https://holopin.me/samarth627" alt="Holopin Profile" width="300" height="300"/>
-    </a>
-</p>
-
+[![An image of @SAMARTH627 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samarth627)(https://www.holopin.io/@samarth627)
