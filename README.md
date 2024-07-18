@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with [Multiple disease prediction system](https://publicmlwebapp-jiv44uyqzrjuznpfs6gnkx.streamlit.app/)
 
-- 📫 How to reach me **samsorot@627gmail.com**
+- 📫 How to reach me **samjaat@627gmail.com**
 
 - ⚡ Fun fact **Talk is Cheap Show me the Code**
 
@@ -35,13 +35,14 @@
 **Languages and Tools:**
   
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,flutter,dart,go,kotlin,electron js,google cloud,vscode&perline=18" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,figma,github,html,js,linux,md,materialui,mysql,nodejs,postman,py,react,google cloud,vscode&perline=18" />
 </a>
 
 [![SAMARTH627's GitHub | Languages Over Time](https://stats.quine.sh/SAMARTH627/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SAMARTH627)
 
 <!--<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=SAMARTH627&show_icons=true&locale=en&layout=compact" alt="SAMARTH627" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAMARTH627&show_icons=true&locale=en" alt="SAMARTH627" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=SAMARTH627&show_icons=true&locale=en" alt="SAMARTH627" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMARTH627&" alt="SAMARTH627" /></p>
+
