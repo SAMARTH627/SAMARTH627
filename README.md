@@ -36,7 +36,7 @@
   
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,figma,github,html,js,linux,md,materialui,mysql,nodejs,postman,py,react,google cloud,vscode&perline=18" />
-</a>
+</a> 
 
 [![SAMARTH627's GitHub | Languages Over Time](https://stats.quine.sh/SAMARTH627/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SAMARTH627)
 
@@ -45,4 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=SAMARTH627&show_icons=true&locale=en" alt="SAMARTH627" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMARTH627&" alt="SAMARTH627" /></p>
+
 
