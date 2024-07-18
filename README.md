@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Cyber+Analyst+by+Day+;Security+Enthusiast+by+Night)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate cyber analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/05/66/81/30/360_F_566813009_s79aILgAeOcKPMsAucxoAcfYD218jzeG.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMARTH627&label=Profile%20views&color=0e75b6&style=flat" alt="SAMARTH627" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tushar2004_" target="blank"><img src="https://img.shields.io/twitter/follow/tushar2004_?logo=twitter&style=for-the-badge" alt="tushar2004_" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/samarth-sorot-52b071233/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a> </p>
 
 - 🔭 I’m currently working on [Cyber security tools](https://github.com/SAMARTH627/Cyber-Security-Tools)
 
