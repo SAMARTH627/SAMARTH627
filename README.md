@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMARTH627&label=Profile%20views&color=0e75b6&style=flat" alt="SAMARTH627" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/samarth-sorot-52b071233/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a> </p>
+<p align="left"> <a href="https://github.com/SAMARTH627" target="blank"><img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" alt="GitHub" /></a> </p>
 
 - 🔭 I’m currently working on [Cyber security tools](https://github.com/SAMARTH627/Cyber-Security-Tools)
 
@@ -25,27 +25,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="Connect with me" height="50" width="50">
-    <a href="https://www.linkedin.com/in/samarth-sorot-52b071233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-sorot-52b071233" height="30" width="40" /></a>
+<a href="https://twitter.com/samarth627_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samarth627_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samarth-sorot-52b071233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-sorot" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samarth627_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarth627_" height="30" width="40" /></a>
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+[![SAMARTH627's GitHub | Stats](https://stats.quine.sh/SAMARTH627/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SAMARTH627)
 
-```yaml
-apiVersion: v2.0
-kind: Human
+**Languages and Tools:**
+  
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,flutter,dart,go,kotlin,electron js,google cloud,vscode&perline=18" />
+</a>
 
-metadata:
-  name: Samarth Sorot
+[![SAMARTH627's GitHub | Languages Over Time](https://stats.quine.sh/SAMARTH627/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SAMARTH627)
 
-experience:
-  company: Cybersecurity Analyst Intern
-  role : Intern
-  work: Built various cybersecurity tools and performed threat analysis
+<!--<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=SAMARTH627&show_icons=true&locale=en&layout=compact" alt="SAMARTH627" /></p>-->
 
-technologies:
-  CyberSecurity : Network Security, Threat Analysis, Vulnerability Assessment
-  Programming : C++, Python, Bash
-  WebDev : HTML, CSS, JavaScript
-  Tools : Linux, MySQL, OpenSSL, Cisco
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAMARTH627&show_icons=true&locale=en" alt="SAMARTH627" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMARTH627&" alt="SAMARTH627" /></p>
