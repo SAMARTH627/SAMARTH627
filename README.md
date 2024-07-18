@@ -1,6 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Samarth Sorot</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Cyber+Analyst+by+Day+;Security+Enthusiast+by+Night)](https://git.io/typing-svg)
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Cyber+Analyst+by+Day+;Security+Enthusiast+by+Night" alt="Typing SVG">
+</p>
 
 <h3 align="center">A passionate cyber analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/05/66/81/30/360_F_566813009_s79aILgAeOcKPMsAucxoAcfYD218jzeG.jpg">
@@ -23,7 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samarth-sorot-52b071233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-sorot-52b071233" height="30" width="40" /></a>
+    <img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="Connect with me" height="50" width="50">
+    <a href="https://www.linkedin.com/in/samarth-sorot-52b071233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-sorot-52b071233" height="30" width="40" /></a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -46,4 +49,3 @@ technologies:
   WebDev : HTML, CSS, JavaScript
   Tools : Linux, MySQL, OpenSSL, Cisco
 
-[![An image of @SAMARTH627 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samarth627)(https://www.holopin.io/@samarth627)
