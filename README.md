@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with [Multiple disease prediction system](https://publicmlwebapp-jiv44uyqzrjuznpfs6gnkx.streamlit.app/)
 
-- 📫 How to reach me **samjaat@627gmail.com**
+- 📫 How to reach me **samsorot@627gmail.com**
 
 - ⚡ Fun fact **Talk is Cheap Show me the Code**
 
