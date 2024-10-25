@@ -1,10 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Samarth Sorot</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Cyber+Analyst+by+Day+;Security+Enthusiast+by+Night" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=CyberSecurity+Analyst+by+Day+;Security+Enthusiast+by+Night" alt="Typing SVG">
 </p>
 
-<h3 align="center">A passionate cyber analyst from India</h3>
+<h3 align="center">A passionate cyber security analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/05/66/81/30/360_F_566813009_s79aILgAeOcKPMsAucxoAcfYD218jzeG.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMARTH627&label=Profile%20views&color=0e75b6&style=flat" alt="SAMARTH627" /> </p>
@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with [Multiple disease prediction system](https://publicmlwebapp-jiv44uyqzrjuznpfs6gnkx.streamlit.app/)
 
-- 📫 How to reach me **samjaat@627gmail.com**
+- 📫 How to reach me **samsorot@627gmail.com**
 
 - ⚡ Fun fact **Talk is Cheap Show me the Code**
 
